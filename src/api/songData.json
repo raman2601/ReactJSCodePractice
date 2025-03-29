@@ -1,0 +1,52 @@
+[
+    {
+      "title": "Jai Shree Ram",
+      "singer": "Saint Dr. Gurmeet Ram Rahim Singh Ji Insan",
+      "description": "This Shri Ram Bhajan by Saint Dr. Gurmeet Ram Rahim Singh Ji Insan pays tribute to those involved in the construction of the magnificent Ram Mandir",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQdifDwk5GtL9WhG2hWoKVwY2fut6U88Www&s",
+      "watch": "https://www.youtube.com/watch?v=HuXOl49zor4"
+    },
+    {
+      "title": "Shape of You",
+      "singer": "Ed Sheeran",
+      "description": "A popular pop song about love and attraction.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png",
+      "watch": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
+    },
+    {
+      "title": "Blinding Lights",
+      "singer": "The Weeknd",
+      "description": "A synthwave-inspired song that became a global hit.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png",
+      "watch": "https://www.youtube.com/watch?v=fHI8X4OXluQ"
+    },
+    {
+      "title": "Someone Like You",
+      "singer": "Adele",
+      "description": "A heartfelt ballad about lost love.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Adele_-_Someone_Like_You.png",
+      "watch": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+    },
+    {
+      "title": "Believer",
+      "singer": "Imagine Dragons",
+      "description": "An energetic rock song about overcoming struggles.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Imagine_Dragons_Believer.png",
+      "watch": "https://www.youtube.com/watch?v=7wtfhZwyrcc"
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "singer": "Queen",
+      "description": "A classic rock opera song with multiple sections.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png",
+      "watch": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+    },
+    {
+      "title": "Lose Yourself",
+      "singer": "Eminem",
+      "description": "A motivational rap song featured in the movie 8 Mile.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Lose_Yourself_by_Eminem_UK_Cassette_single.png",
+      "watch": "https://www.youtube.com/watch?v=_Yhyp-_hX2s"
+    }
+  ]
+  
